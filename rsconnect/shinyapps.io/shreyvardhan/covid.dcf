@@ -1,0 +1,10 @@
+name: covid
+title:
+username:
+account: shreyvardhan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2200866
+bundleId: 3076316
+url: https://shreyvardhan.shinyapps.io/covid/
+when: 1588071786.1289

@@ -1,0 +1,1481 @@
+<table width="640" border="0" summary="r539cy Report Table">
+	<tr><th id="noinfo" colspan="10" axis="No Information available"></th></tr>
+	<tr bgcolor='#d9d9d9'>
+		<th id="report_date" width="100" rowspan="2" align="center"></th>
+		<th id="initial_claims" width="275" colspan="4" align="center">Initial Claims</th>
+		<th id="continued_claims" width="275" colspan="4" align="center">Continued Claims</th>
+		<th id="iur" width='100' colspan='2' align='center' axis="Insured Unemployment Rate or I. U. R.which is pronounced as" >I.U.R</th>
+		<th id="cov_employment" width="200" rowspan="2" align="center">Covered Employment</th>
+	</tr>
+	<tr bgcolor='#d9d9d9'>
+		<th id="nsa_initial_claims" width="100" align="center" axis="Initial Claims for Not Seasonally Adjusted or">N.S.A</th>
+		<th id="sf_initial_claims" width="100" align="center" axis="Initial Claims for Seasonal Factor or">S.F.</th>
+		<th id="sa_initial_claims" width="100" align="center" axis="Initial Claims for Seasonal Adjusted or">S.A.</th>
+		<th id="sa_4_week_initial_claims" width="100" align="center" axis="Initial Claims for Seasonal Adjusted or">S.A. 4-Week</th>
+		<th id="nsa_continued_claims" width="100" align="center" axis="Continued Claims for Not Seasonally Adjusted or">N.S.A</th>
+		<th id="sf_continued_claims" width="100" align="center" axis="Continued Claims for Seasonal Factor or">S.F.</th>
+		<th id="sa_continued_claims" width="100" align="center" axis="Continued Claims for Seasonal Adjusted or">S.A.</th>
+		<th id="sa_4_week_continued_claims" width="100" align="center" axis="Continued Claims for Seasonal Adjusted or">S.A. 4-Week</th>
+		<th id="nsa_iur" width="100" align="center" axis="Insured Unemployment Rate for Not Seasonally Adjusted or">N.S.A</th>
+		<th id="sa_iur" width="100" align="center" axis="Insured Unemployment Rate for Seasonally Adjusted or">S.A.</th>
+	</tr>
+<tr>
+<th id="01/05/2019" align=left>01/05/2019</th>
+<td headers="01/05/2019 nsa_initial_claims" align=right>350,681</td>
+<td headers="01/05/2019 sf_initial_claims" align=right>159.6</td>
+<td headers="01/05/2019 sa_initial_claims" align=right>220,000</td>
+<td headers="01/05/2019 sa_4_week_initial_claims" align=right>220,750</td>
+<td headers="01/05/2019 nsa_continued_claims" align=right>2,172,537</td>
+<td headers="01/05/2019 sf_continued_claims" align=right>127.1</td>
+<td headers="01/05/2019 sa_continued_claims" align=right>1,709,000</td>
+<td headers="01/05/2019 sa_4_week_continued_claims" align=right>1,704,500</td>
+<td headers="01/05/2019 nsa_iur" align=center>1.5</td>
+<td headers="01/05/2019 sa_iur" align=center>1.2</td>
+<td headers="01/05/2019 cov_employment" align=center>143,051,794</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="01/12/2019" align=left>01/12/2019</th>
+<td headers="01/12/2019 nsa_initial_claims" align=right>343,678</td>
+<td headers="01/12/2019 sf_initial_claims" align=right>159.2</td>
+<td headers="01/12/2019 sa_initial_claims" align=right>216,000</td>
+<td headers="01/12/2019 sa_4_week_initial_claims" align=right>220,750</td>
+<td headers="01/12/2019 nsa_continued_claims" align=right>2,090,268</td>
+<td headers="01/12/2019 sf_continued_claims" align=right>122.9</td>
+<td headers="01/12/2019 sa_continued_claims" align=right>1,701,000</td>
+<td headers="01/12/2019 sa_4_week_continued_claims" align=right>1,706,250</td>
+<td headers="01/12/2019 nsa_iur" align=center>1.5</td>
+<td headers="01/12/2019 sa_iur" align=center>1.2</td>
+<td headers="01/12/2019 cov_employment" align=center>143,051,794</td>
+</tr>
+<tr>
+<th id="01/19/2019" align=left>01/19/2019</th>
+<td headers="01/19/2019 nsa_initial_claims" align=right>269,369</td>
+<td headers="01/19/2019 sf_initial_claims" align=right>128.6</td>
+<td headers="01/19/2019 sa_initial_claims" align=right>209,000</td>
+<td headers="01/19/2019 sa_4_week_initial_claims" align=right>218,250</td>
+<td headers="01/19/2019 nsa_continued_claims" align=right>2,124,743</td>
+<td headers="01/19/2019 sf_continued_claims" align=right>122.0</td>
+<td headers="01/19/2019 sa_continued_claims" align=right>1,742,000</td>
+<td headers="01/19/2019 sa_4_week_continued_claims" align=right>1,709,750</td>
+<td headers="01/19/2019 nsa_iur" align=center>1.5</td>
+<td headers="01/19/2019 sa_iur" align=center>1.2</td>
+<td headers="01/19/2019 cov_employment" align=center>143,051,794</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="01/26/2019" align=left>01/26/2019</th>
+<td headers="01/26/2019 nsa_initial_claims" align=right>250,580</td>
+<td headers="01/26/2019 sf_initial_claims" align=right>106.1</td>
+<td headers="01/26/2019 sa_initial_claims" align=right>236,000</td>
+<td headers="01/26/2019 sa_4_week_initial_claims" align=right>220,250</td>
+<td headers="01/26/2019 nsa_continued_claims" align=right>2,098,575</td>
+<td headers="01/26/2019 sf_continued_claims" align=right>122.4</td>
+<td headers="01/26/2019 sa_continued_claims" align=right>1,715,000</td>
+<td headers="01/26/2019 sa_4_week_continued_claims" align=right>1,716,750</td>
+<td headers="01/26/2019 nsa_iur" align=center>1.5</td>
+<td headers="01/26/2019 sa_iur" align=center>1.2</td>
+<td headers="01/26/2019 cov_employment" align=center>143,051,794</td>
+</tr>
+<tr>
+<th id="02/02/2019" align=left>02/02/2019</th>
+<td headers="02/02/2019 nsa_initial_claims" align=right>254,263</td>
+<td headers="02/02/2019 sf_initial_claims" align=right>110.6</td>
+<td headers="02/02/2019 sa_initial_claims" align=right>230,000</td>
+<td headers="02/02/2019 sa_4_week_initial_claims" align=right>222,750</td>
+<td headers="02/02/2019 nsa_continued_claims" align=right>2,142,462</td>
+<td headers="02/02/2019 sf_continued_claims" align=right>124.5</td>
+<td headers="02/02/2019 sa_continued_claims" align=right>1,721,000</td>
+<td headers="02/02/2019 sa_4_week_continued_claims" align=right>1,719,750</td>
+<td headers="02/02/2019 nsa_iur" align=center>1.5</td>
+<td headers="02/02/2019 sa_iur" align=center>1.2</td>
+<td headers="02/02/2019 cov_employment" align=center>143,051,794</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="02/09/2019" align=left>02/09/2019</th>
+<td headers="02/09/2019 nsa_initial_claims" align=right>242,762</td>
+<td headers="02/09/2019 sf_initial_claims" align=right>106.3</td>
+<td headers="02/09/2019 sa_initial_claims" align=right>228,000</td>
+<td headers="02/09/2019 sa_4_week_initial_claims" align=right>225,750</td>
+<td headers="02/09/2019 nsa_continued_claims" align=right>2,084,361</td>
+<td headers="02/09/2019 sf_continued_claims" align=right>121.5</td>
+<td headers="02/09/2019 sa_continued_claims" align=right>1,716,000</td>
+<td headers="02/09/2019 sa_4_week_continued_claims" align=right>1,723,500</td>
+<td headers="02/09/2019 nsa_iur" align=center>1.5</td>
+<td headers="02/09/2019 sa_iur" align=center>1.2</td>
+<td headers="02/09/2019 cov_employment" align=center>143,051,794</td>
+</tr>
+<tr>
+<th id="02/16/2019" align=left>02/16/2019</th>
+<td headers="02/16/2019 nsa_initial_claims" align=right>210,679</td>
+<td headers="02/16/2019 sf_initial_claims" align=right>96.7</td>
+<td headers="02/16/2019 sa_initial_claims" align=right>218,000</td>
+<td headers="02/16/2019 sa_4_week_initial_claims" align=right>228,000</td>
+<td headers="02/16/2019 nsa_continued_claims" align=right>2,125,992</td>
+<td headers="02/16/2019 sf_continued_claims" align=right>122.1</td>
+<td headers="02/16/2019 sa_continued_claims" align=right>1,741,000</td>
+<td headers="02/16/2019 sa_4_week_continued_claims" align=right>1,723,250</td>
+<td headers="02/16/2019 nsa_iur" align=center>1.5</td>
+<td headers="02/16/2019 sa_iur" align=center>1.2</td>
+<td headers="02/16/2019 cov_employment" align=center>143,051,794</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="02/23/2019" align=left>02/23/2019</th>
+<td headers="02/23/2019 nsa_initial_claims" align=right>203,049</td>
+<td headers="02/23/2019 sf_initial_claims" align=right>90.8</td>
+<td headers="02/23/2019 sa_initial_claims" align=right>224,000</td>
+<td headers="02/23/2019 sa_4_week_initial_claims" align=right>225,000</td>
+<td headers="02/23/2019 nsa_continued_claims" align=right>2,112,404</td>
+<td headers="02/23/2019 sf_continued_claims" align=right>121.5</td>
+<td headers="02/23/2019 sa_continued_claims" align=right>1,739,000</td>
+<td headers="02/23/2019 sa_4_week_continued_claims" align=right>1,729,250</td>
+<td headers="02/23/2019 nsa_iur" align=center>1.5</td>
+<td headers="02/23/2019 sa_iur" align=center>1.2</td>
+<td headers="02/23/2019 cov_employment" align=center>143,051,794</td>
+</tr>
+<tr>
+<th id="03/02/2019" align=left>03/02/2019</th>
+<td headers="03/02/2019 nsa_initial_claims" align=right>220,540</td>
+<td headers="03/02/2019 sf_initial_claims" align=right>100.2</td>
+<td headers="03/02/2019 sa_initial_claims" align=right>220,000</td>
+<td headers="03/02/2019 sa_4_week_initial_claims" align=right>222,500</td>
+<td headers="03/02/2019 nsa_continued_claims" align=right>2,088,410</td>
+<td headers="03/02/2019 sf_continued_claims" align=right>120.7</td>
+<td headers="03/02/2019 sa_continued_claims" align=right>1,730,000</td>
+<td headers="03/02/2019 sa_4_week_continued_claims" align=right>1,731,500</td>
+<td headers="03/02/2019 nsa_iur" align=center>1.5</td>
+<td headers="03/02/2019 sa_iur" align=center>1.2</td>
+<td headers="03/02/2019 cov_employment" align=center>143,051,794</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="03/09/2019" align=left>03/09/2019</th>
+<td headers="03/09/2019 nsa_initial_claims" align=right>209,302</td>
+<td headers="03/09/2019 sf_initial_claims" align=right>93.4</td>
+<td headers="03/09/2019 sa_initial_claims" align=right>224,000</td>
+<td headers="03/09/2019 sa_4_week_initial_claims" align=right>221,500</td>
+<td headers="03/09/2019 nsa_continued_claims" align=right>2,008,348</td>
+<td headers="03/09/2019 sf_continued_claims" align=right>115.8</td>
+<td headers="03/09/2019 sa_continued_claims" align=right>1,734,000</td>
+<td headers="03/09/2019 sa_4_week_continued_claims" align=right>1,736,000</td>
+<td headers="03/09/2019 nsa_iur" align=center>1.4</td>
+<td headers="03/09/2019 sa_iur" align=center>1.2</td>
+<td headers="03/09/2019 cov_employment" align=center>143,051,794</td>
+</tr>
+<tr>
+<th id="03/16/2019" align=left>03/16/2019</th>
+<td headers="03/16/2019 nsa_initial_claims" align=right>194,335</td>
+<td headers="03/16/2019 sf_initial_claims" align=right>88.9</td>
+<td headers="03/16/2019 sa_initial_claims" align=right>219,000</td>
+<td headers="03/16/2019 sa_4_week_initial_claims" align=right>221,750</td>
+<td headers="03/16/2019 nsa_continued_claims" align=right>2,009,317</td>
+<td headers="03/16/2019 sf_continued_claims" align=right>116.0</td>
+<td headers="03/16/2019 sa_continued_claims" align=right>1,732,000</td>
+<td headers="03/16/2019 sa_4_week_continued_claims" align=right>1,733,750</td>
+<td headers="03/16/2019 nsa_iur" align=center>1.4</td>
+<td headers="03/16/2019 sa_iur" align=center>1.2</td>
+<td headers="03/16/2019 cov_employment" align=center>143,051,794</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="03/23/2019" align=left>03/23/2019</th>
+<td headers="03/23/2019 nsa_initial_claims" align=right>190,023</td>
+<td headers="03/23/2019 sf_initial_claims" align=right>88.5</td>
+<td headers="03/23/2019 sa_initial_claims" align=right>215,000</td>
+<td headers="03/23/2019 sa_4_week_initial_claims" align=right>219,500</td>
+<td headers="03/23/2019 nsa_continued_claims" align=right>1,908,355</td>
+<td headers="03/23/2019 sf_continued_claims" align=right>111.0</td>
+<td headers="03/23/2019 sa_continued_claims" align=right>1,719,000</td>
+<td headers="03/23/2019 sa_4_week_continued_claims" align=right>1,728,750</td>
+<td headers="03/23/2019 nsa_iur" align=center>1.3</td>
+<td headers="03/23/2019 sa_iur" align=center>1.2</td>
+<td headers="03/23/2019 cov_employment" align=center>143,051,794</td>
+</tr>
+<tr>
+<th id="03/30/2019" align=left>03/30/2019</th>
+<td headers="03/30/2019 nsa_initial_claims" align=right>183,775</td>
+<td headers="03/30/2019 sf_initial_claims" align=right>87.3</td>
+<td headers="03/30/2019 sa_initial_claims" align=right>211,000</td>
+<td headers="03/30/2019 sa_4_week_initial_claims" align=right>217,250</td>
+<td headers="03/30/2019 nsa_continued_claims" align=right>1,861,690</td>
+<td headers="03/30/2019 sf_continued_claims" align=right>109.2</td>
+<td headers="03/30/2019 sa_continued_claims" align=right>1,705,000</td>
+<td headers="03/30/2019 sa_4_week_continued_claims" align=right>1,722,500</td>
+<td headers="03/30/2019 nsa_iur" align=center>1.3</td>
+<td headers="03/30/2019 sa_iur" align=center>1.2</td>
+<td headers="03/30/2019 cov_employment" align=center>143,051,794</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="04/06/2019" align=left>04/06/2019</th>
+<td headers="04/06/2019 nsa_initial_claims" align=right>196,071</td>
+<td headers="04/06/2019 sf_initial_claims" align=right>96.5</td>
+<td headers="04/06/2019 sa_initial_claims" align=right>203,000</td>
+<td headers="04/06/2019 sa_4_week_initial_claims" align=right>212,000</td>
+<td headers="04/06/2019 nsa_continued_claims" align=right>1,730,108</td>
+<td headers="04/06/2019 sf_continued_claims" align=right>103.8</td>
+<td headers="04/06/2019 sa_continued_claims" align=right>1,667,000</td>
+<td headers="04/06/2019 sa_4_week_continued_claims" align=right>1,705,750</td>
+<td headers="04/06/2019 nsa_iur" align=center>1.2</td>
+<td headers="04/06/2019 sa_iur" align=center>1.2</td>
+<td headers="04/06/2019 cov_employment" align=center>143,629,179</td>
+</tr>
+<tr>
+<th id="04/13/2019" align=left>04/13/2019</th>
+<td headers="04/13/2019 nsa_initial_claims" align=right>196,364</td>
+<td headers="04/13/2019 sf_initial_claims" align=right>96.6</td>
+<td headers="04/13/2019 sa_initial_claims" align=right>203,000</td>
+<td headers="04/13/2019 sa_4_week_initial_claims" align=right>208,000</td>
+<td headers="04/13/2019 nsa_continued_claims" align=right>1,703,576</td>
+<td headers="04/13/2019 sf_continued_claims" align=right>102.7</td>
+<td headers="04/13/2019 sa_continued_claims" align=right>1,659,000</td>
+<td headers="04/13/2019 sa_4_week_continued_claims" align=right>1,687,500</td>
+<td headers="04/13/2019 nsa_iur" align=center>1.2</td>
+<td headers="04/13/2019 sa_iur" align=center>1.2</td>
+<td headers="04/13/2019 cov_employment" align=center>143,629,179</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="04/20/2019" align=left>04/20/2019</th>
+<td headers="04/20/2019 nsa_initial_claims" align=right>211,762</td>
+<td headers="04/20/2019 sf_initial_claims" align=right>93.8</td>
+<td headers="04/20/2019 sa_initial_claims" align=right>226,000</td>
+<td headers="04/20/2019 sa_4_week_initial_claims" align=right>210,750</td>
+<td headers="04/20/2019 nsa_continued_claims" align=right>1,647,874</td>
+<td headers="04/20/2019 sf_continued_claims" align=right>98.0</td>
+<td headers="04/20/2019 sa_continued_claims" align=right>1,682,000</td>
+<td headers="04/20/2019 sa_4_week_continued_claims" align=right>1,678,250</td>
+<td headers="04/20/2019 nsa_iur" align=center>1.1</td>
+<td headers="04/20/2019 sa_iur" align=center>1.2</td>
+<td headers="04/20/2019 cov_employment" align=center>143,629,179</td>
+</tr>
+<tr>
+<th id="04/27/2019" align=left>04/27/2019</th>
+<td headers="04/27/2019 nsa_initial_claims" align=right>204,755</td>
+<td headers="04/27/2019 sf_initial_claims" align=right>88.9</td>
+<td headers="04/27/2019 sa_initial_claims" align=right>230,000</td>
+<td headers="04/27/2019 sa_4_week_initial_claims" align=right>215,500</td>
+<td headers="04/27/2019 nsa_continued_claims" align=right>1,633,529</td>
+<td headers="04/27/2019 sf_continued_claims" align=right>97.0</td>
+<td headers="04/27/2019 sa_continued_claims" align=right>1,684,000</td>
+<td headers="04/27/2019 sa_4_week_continued_claims" align=right>1,673,000</td>
+<td headers="04/27/2019 nsa_iur" align=center>1.1</td>
+<td headers="04/27/2019 sa_iur" align=center>1.2</td>
+<td headers="04/27/2019 cov_employment" align=center>143,629,179</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="05/04/2019" align=left>05/04/2019</th>
+<td headers="05/04/2019 nsa_initial_claims" align=right>204,033</td>
+<td headers="05/04/2019 sf_initial_claims" align=right>90.8</td>
+<td headers="05/04/2019 sa_initial_claims" align=right>225,000</td>
+<td headers="05/04/2019 sa_4_week_initial_claims" align=right>221,000</td>
+<td headers="05/04/2019 nsa_continued_claims" align=right>1,539,086</td>
+<td headers="05/04/2019 sf_continued_claims" align=right>91.7</td>
+<td headers="05/04/2019 sa_continued_claims" align=right>1,678,000</td>
+<td headers="05/04/2019 sa_4_week_continued_claims" align=right>1,675,750</td>
+<td headers="05/04/2019 nsa_iur" align=center>1.1</td>
+<td headers="05/04/2019 sa_iur" align=center>1.2</td>
+<td headers="05/04/2019 cov_employment" align=center>143,629,179</td>
+</tr>
+<tr>
+<th id="05/11/2019" align=left>05/11/2019</th>
+<td headers="05/11/2019 nsa_initial_claims" align=right>188,264</td>
+<td headers="05/11/2019 sf_initial_claims" align=right>86.9</td>
+<td headers="05/11/2019 sa_initial_claims" align=right>217,000</td>
+<td headers="05/11/2019 sa_4_week_initial_claims" align=right>224,500</td>
+<td headers="05/11/2019 nsa_continued_claims" align=right>1,543,472</td>
+<td headers="05/11/2019 sf_continued_claims" align=right>91.7</td>
+<td headers="05/11/2019 sa_continued_claims" align=right>1,683,000</td>
+<td headers="05/11/2019 sa_4_week_continued_claims" align=right>1,681,750</td>
+<td headers="05/11/2019 nsa_iur" align=center>1.1</td>
+<td headers="05/11/2019 sa_iur" align=center>1.2</td>
+<td headers="05/11/2019 cov_employment" align=center>143,629,179</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="05/18/2019" align=left>05/18/2019</th>
+<td headers="05/18/2019 nsa_initial_claims" align=right>191,931</td>
+<td headers="05/18/2019 sf_initial_claims" align=right>89.9</td>
+<td headers="05/18/2019 sa_initial_claims" align=right>213,000</td>
+<td headers="05/18/2019 sa_4_week_initial_claims" align=right>221,250</td>
+<td headers="05/18/2019 nsa_continued_claims" align=right>1,509,265</td>
+<td headers="05/18/2019 sf_continued_claims" align=right>90.1</td>
+<td headers="05/18/2019 sa_continued_claims" align=right>1,675,000</td>
+<td headers="05/18/2019 sa_4_week_continued_claims" align=right>1,680,000</td>
+<td headers="05/18/2019 nsa_iur" align=center>1.1</td>
+<td headers="05/18/2019 sa_iur" align=center>1.2</td>
+<td headers="05/18/2019 cov_employment" align=center>143,629,179</td>
+</tr>
+<tr>
+<th id="05/25/2019" align=left>05/25/2019</th>
+<td headers="05/25/2019 nsa_initial_claims" align=right>198,194</td>
+<td headers="05/25/2019 sf_initial_claims" align=right>90.9</td>
+<td headers="05/25/2019 sa_initial_claims" align=right>218,000</td>
+<td headers="05/25/2019 sa_4_week_initial_claims" align=right>218,250</td>
+<td headers="05/25/2019 nsa_continued_claims" align=right>1,521,741</td>
+<td headers="05/25/2019 sf_continued_claims" align=right>89.8</td>
+<td headers="05/25/2019 sa_continued_claims" align=right>1,695,000</td>
+<td headers="05/25/2019 sa_4_week_continued_claims" align=right>1,682,750</td>
+<td headers="05/25/2019 nsa_iur" align=center>1.1</td>
+<td headers="05/25/2019 sa_iur" align=center>1.2</td>
+<td headers="05/25/2019 cov_employment" align=center>143,629,179</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="06/01/2019" align=left>06/01/2019</th>
+<td headers="06/01/2019 nsa_initial_claims" align=right>189,577</td>
+<td headers="06/01/2019 sf_initial_claims" align=right>86.2</td>
+<td headers="06/01/2019 sa_initial_claims" align=right>220,000</td>
+<td headers="06/01/2019 sa_4_week_initial_claims" align=right>217,000</td>
+<td headers="06/01/2019 nsa_continued_claims" align=right>1,538,065</td>
+<td headers="06/01/2019 sf_continued_claims" align=right>90.5</td>
+<td headers="06/01/2019 sa_continued_claims" align=right>1,700,000</td>
+<td headers="06/01/2019 sa_4_week_continued_claims" align=right>1,688,250</td>
+<td headers="06/01/2019 nsa_iur" align=center>1.1</td>
+<td headers="06/01/2019 sa_iur" align=center>1.2</td>
+<td headers="06/01/2019 cov_employment" align=center>143,629,179</td>
+</tr>
+<tr>
+<th id="06/08/2019" align=left>06/08/2019</th>
+<td headers="06/08/2019 nsa_initial_claims" align=right>220,186</td>
+<td headers="06/08/2019 sf_initial_claims" align=right>99.9</td>
+<td headers="06/08/2019 sa_initial_claims" align=right>220,000</td>
+<td headers="06/08/2019 sa_4_week_initial_claims" align=right>217,750</td>
+<td headers="06/08/2019 nsa_continued_claims" align=right>1,522,665</td>
+<td headers="06/08/2019 sf_continued_claims" align=right>90.8</td>
+<td headers="06/08/2019 sa_continued_claims" align=right>1,677,000</td>
+<td headers="06/08/2019 sa_4_week_continued_claims" align=right>1,686,750</td>
+<td headers="06/08/2019 nsa_iur" align=center>1.1</td>
+<td headers="06/08/2019 sa_iur" align=center>1.2</td>
+<td headers="06/08/2019 cov_employment" align=center>143,629,179</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="06/15/2019" align=left>06/15/2019</th>
+<td headers="06/15/2019 nsa_initial_claims" align=right>205,921</td>
+<td headers="06/15/2019 sf_initial_claims" align=right>93.9</td>
+<td headers="06/15/2019 sa_initial_claims" align=right>219,000</td>
+<td headers="06/15/2019 sa_4_week_initial_claims" align=right>219,250</td>
+<td headers="06/15/2019 nsa_continued_claims" align=right>1,558,646</td>
+<td headers="06/15/2019 sf_continued_claims" align=right>92.1</td>
+<td headers="06/15/2019 sa_continued_claims" align=right>1,692,000</td>
+<td headers="06/15/2019 sa_4_week_continued_claims" align=right>1,691,000</td>
+<td headers="06/15/2019 nsa_iur" align=center>1.1</td>
+<td headers="06/15/2019 sa_iur" align=center>1.2</td>
+<td headers="06/15/2019 cov_employment" align=center>143,629,179</td>
+</tr>
+<tr>
+<th id="06/22/2019" align=left>06/22/2019</th>
+<td headers="06/22/2019 nsa_initial_claims" align=right>225,819</td>
+<td headers="06/22/2019 sf_initial_claims" align=right>100.7</td>
+<td headers="06/22/2019 sa_initial_claims" align=right>224,000</td>
+<td headers="06/22/2019 sa_4_week_initial_claims" align=right>220,750</td>
+<td headers="06/22/2019 nsa_continued_claims" align=right>1,588,879</td>
+<td headers="06/22/2019 sf_continued_claims" align=right>93.5</td>
+<td headers="06/22/2019 sa_continued_claims" align=right>1,699,000</td>
+<td headers="06/22/2019 sa_4_week_continued_claims" align=right>1,692,000</td>
+<td headers="06/22/2019 nsa_iur" align=center>1.1</td>
+<td headers="06/22/2019 sa_iur" align=center>1.2</td>
+<td headers="06/22/2019 cov_employment" align=center>143,629,179</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="06/29/2019" align=left>06/29/2019</th>
+<td headers="06/29/2019 nsa_initial_claims" align=right>224,565</td>
+<td headers="06/29/2019 sf_initial_claims" align=right>101.0</td>
+<td headers="06/29/2019 sa_initial_claims" align=right>222,000</td>
+<td headers="06/29/2019 sa_4_week_initial_claims" align=right>221,250</td>
+<td headers="06/29/2019 nsa_continued_claims" align=right>1,610,633</td>
+<td headers="06/29/2019 sf_continued_claims" align=right>93.8</td>
+<td headers="06/29/2019 sa_continued_claims" align=right>1,717,000</td>
+<td headers="06/29/2019 sa_4_week_continued_claims" align=right>1,696,250</td>
+<td headers="06/29/2019 nsa_iur" align=center>1.1</td>
+<td headers="06/29/2019 sa_iur" align=center>1.2</td>
+<td headers="06/29/2019 cov_employment" align=center>143,629,179</td>
+</tr>
+<tr>
+<th id="07/06/2019" align=left>07/06/2019</th>
+<td headers="07/06/2019 nsa_initial_claims" align=right>231,995</td>
+<td headers="07/06/2019 sf_initial_claims" align=right>110.2</td>
+<td headers="07/06/2019 sa_initial_claims" align=right>211,000</td>
+<td headers="07/06/2019 sa_4_week_initial_claims" align=right>219,000</td>
+<td headers="07/06/2019 nsa_continued_claims" align=right>1,702,745</td>
+<td headers="07/06/2019 sf_continued_claims" align=right>100.5</td>
+<td headers="07/06/2019 sa_continued_claims" align=right>1,694,000</td>
+<td headers="07/06/2019 sa_4_week_continued_claims" align=right>1,700,500</td>
+<td headers="07/06/2019 nsa_iur" align=center>1.2</td>
+<td headers="07/06/2019 sa_iur" align=center>1.2</td>
+<td headers="07/06/2019 cov_employment" align=center>144,199,701</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="07/13/2019" align=left>07/13/2019</th>
+<td headers="07/13/2019 nsa_initial_claims" align=right>243,621</td>
+<td headers="07/13/2019 sf_initial_claims" align=right>112.1</td>
+<td headers="07/13/2019 sa_initial_claims" align=right>217,000</td>
+<td headers="07/13/2019 sa_4_week_initial_claims" align=right>218,500</td>
+<td headers="07/13/2019 nsa_continued_claims" align=right>1,697,505</td>
+<td headers="07/13/2019 sf_continued_claims" align=right>100.9</td>
+<td headers="07/13/2019 sa_continued_claims" align=right>1,682,000</td>
+<td headers="07/13/2019 sa_4_week_continued_claims" align=right>1,698,000</td>
+<td headers="07/13/2019 nsa_iur" align=center>1.2</td>
+<td headers="07/13/2019 sa_iur" align=center>1.2</td>
+<td headers="07/13/2019 cov_employment" align=center>144,199,701</td>
+</tr>
+<tr>
+<th id="07/20/2019" align=left>07/20/2019</th>
+<td headers="07/20/2019 nsa_initial_claims" align=right>196,382</td>
+<td headers="07/20/2019 sf_initial_claims" align=right>93.1</td>
+<td headers="07/20/2019 sa_initial_claims" align=right>211,000</td>
+<td headers="07/20/2019 sa_4_week_initial_claims" align=right>215,250</td>
+<td headers="07/20/2019 nsa_continued_claims" align=right>1,680,029</td>
+<td headers="07/20/2019 sf_continued_claims" align=right>98.9</td>
+<td headers="07/20/2019 sa_continued_claims" align=right>1,699,000</td>
+<td headers="07/20/2019 sa_4_week_continued_claims" align=right>1,698,000</td>
+<td headers="07/20/2019 nsa_iur" align=center>1.2</td>
+<td headers="07/20/2019 sa_iur" align=center>1.2</td>
+<td headers="07/20/2019 cov_employment" align=center>144,199,701</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="07/27/2019" align=left>07/27/2019</th>
+<td headers="07/27/2019 nsa_initial_claims" align=right>178,897</td>
+<td headers="07/27/2019 sf_initial_claims" align=right>82.9</td>
+<td headers="07/27/2019 sa_initial_claims" align=right>216,000</td>
+<td headers="07/27/2019 sa_4_week_initial_claims" align=right>213,750</td>
+<td headers="07/27/2019 nsa_continued_claims" align=right>1,665,287</td>
+<td headers="07/27/2019 sf_continued_claims" align=right>98.4</td>
+<td headers="07/27/2019 sa_continued_claims" align=right>1,692,000</td>
+<td headers="07/27/2019 sa_4_week_continued_claims" align=right>1,691,750</td>
+<td headers="07/27/2019 nsa_iur" align=center>1.2</td>
+<td headers="07/27/2019 sa_iur" align=center>1.2</td>
+<td headers="07/27/2019 cov_employment" align=center>144,199,701</td>
+</tr>
+<tr>
+<th id="08/03/2019" align=left>08/03/2019</th>
+<td headers="08/03/2019 nsa_initial_claims" align=right>179,879</td>
+<td headers="08/03/2019 sf_initial_claims" align=right>84.0</td>
+<td headers="08/03/2019 sa_initial_claims" align=right>214,000</td>
+<td headers="08/03/2019 sa_4_week_initial_claims" align=right>214,500</td>
+<td headers="08/03/2019 nsa_continued_claims" align=right>1,679,471</td>
+<td headers="08/03/2019 sf_continued_claims" align=right>97.7</td>
+<td headers="08/03/2019 sa_continued_claims" align=right>1,719,000</td>
+<td headers="08/03/2019 sa_4_week_continued_claims" align=right>1,698,000</td>
+<td headers="08/03/2019 nsa_iur" align=center>1.2</td>
+<td headers="08/03/2019 sa_iur" align=center>1.2</td>
+<td headers="08/03/2019 cov_employment" align=center>144,199,701</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="08/10/2019" align=left>08/10/2019</th>
+<td headers="08/10/2019 nsa_initial_claims" align=right>186,914</td>
+<td headers="08/10/2019 sf_initial_claims" align=right>85.7</td>
+<td headers="08/10/2019 sa_initial_claims" align=right>218,000</td>
+<td headers="08/10/2019 sa_4_week_initial_claims" align=right>214,750</td>
+<td headers="08/10/2019 nsa_continued_claims" align=right>1,619,391</td>
+<td headers="08/10/2019 sf_continued_claims" align=right>96.0</td>
+<td headers="08/10/2019 sa_continued_claims" align=right>1,687,000</td>
+<td headers="08/10/2019 sa_4_week_continued_claims" align=right>1,699,250</td>
+<td headers="08/10/2019 nsa_iur" align=center>1.1</td>
+<td headers="08/10/2019 sa_iur" align=center>1.2</td>
+<td headers="08/10/2019 cov_employment" align=center>144,199,701</td>
+</tr>
+<tr>
+<th id="08/17/2019" align=left>08/17/2019</th>
+<td headers="08/17/2019 nsa_initial_claims" align=right>171,386</td>
+<td headers="08/17/2019 sf_initial_claims" align=right>79.9</td>
+<td headers="08/17/2019 sa_initial_claims" align=right>215,000</td>
+<td headers="08/17/2019 sa_4_week_initial_claims" align=right>215,750</td>
+<td headers="08/17/2019 nsa_continued_claims" align=right>1,615,803</td>
+<td headers="08/17/2019 sf_continued_claims" align=right>95.1</td>
+<td headers="08/17/2019 sa_continued_claims" align=right>1,699,000</td>
+<td headers="08/17/2019 sa_4_week_continued_claims" align=right>1,699,250</td>
+<td headers="08/17/2019 nsa_iur" align=center>1.1</td>
+<td headers="08/17/2019 sa_iur" align=center>1.2</td>
+<td headers="08/17/2019 cov_employment" align=center>144,199,701</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="08/24/2019" align=left>08/24/2019</th>
+<td headers="08/24/2019 nsa_initial_claims" align=right>176,867</td>
+<td headers="08/24/2019 sf_initial_claims" align=right>82.1</td>
+<td headers="08/24/2019 sa_initial_claims" align=right>215,000</td>
+<td headers="08/24/2019 sa_4_week_initial_claims" align=right>215,500</td>
+<td headers="08/24/2019 nsa_continued_claims" align=right>1,566,934</td>
+<td headers="08/24/2019 sf_continued_claims" align=right>93.1</td>
+<td headers="08/24/2019 sa_continued_claims" align=right>1,683,000</td>
+<td headers="08/24/2019 sa_4_week_continued_claims" align=right>1,697,000</td>
+<td headers="08/24/2019 nsa_iur" align=center>1.1</td>
+<td headers="08/24/2019 sa_iur" align=center>1.2</td>
+<td headers="08/24/2019 cov_employment" align=center>144,199,701</td>
+</tr>
+<tr>
+<th id="08/31/2019" align=left>08/31/2019</th>
+<td headers="08/31/2019 nsa_initial_claims" align=right>179,516</td>
+<td headers="08/31/2019 sf_initial_claims" align=right>82.1</td>
+<td headers="08/31/2019 sa_initial_claims" align=right>219,000</td>
+<td headers="08/31/2019 sa_4_week_initial_claims" align=right>216,750</td>
+<td headers="08/31/2019 nsa_continued_claims" align=right>1,476,199</td>
+<td headers="08/31/2019 sf_continued_claims" align=right>87.7</td>
+<td headers="08/31/2019 sa_continued_claims" align=right>1,683,000</td>
+<td headers="08/31/2019 sa_4_week_continued_claims" align=right>1,688,000</td>
+<td headers="08/31/2019 nsa_iur" align=center>1.0</td>
+<td headers="08/31/2019 sa_iur" align=center>1.2</td>
+<td headers="08/31/2019 cov_employment" align=center>144,199,701</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="09/07/2019" align=left>09/07/2019</th>
+<td headers="09/07/2019 nsa_initial_claims" align=right>160,342</td>
+<td headers="09/07/2019 sf_initial_claims" align=right>77.0</td>
+<td headers="09/07/2019 sa_initial_claims" align=right>208,000</td>
+<td headers="09/07/2019 sa_4_week_initial_claims" align=right>214,250</td>
+<td headers="09/07/2019 nsa_continued_claims" align=right>1,465,554</td>
+<td headers="09/07/2019 sf_continued_claims" align=right>87.5</td>
+<td headers="09/07/2019 sa_continued_claims" align=right>1,675,000</td>
+<td headers="09/07/2019 sa_4_week_continued_claims" align=right>1,685,000</td>
+<td headers="09/07/2019 nsa_iur" align=center>1.0</td>
+<td headers="09/07/2019 sa_iur" align=center>1.2</td>
+<td headers="09/07/2019 cov_employment" align=center>144,199,701</td>
+</tr>
+<tr>
+<th id="09/14/2019" align=left>09/14/2019</th>
+<td headers="09/14/2019 nsa_initial_claims" align=right>173,134</td>
+<td headers="09/14/2019 sf_initial_claims" align=right>81.9</td>
+<td headers="09/14/2019 sa_initial_claims" align=right>211,000</td>
+<td headers="09/14/2019 sa_4_week_initial_claims" align=right>213,250</td>
+<td headers="09/14/2019 nsa_continued_claims" align=right>1,399,601</td>
+<td headers="09/14/2019 sf_continued_claims" align=right>83.7</td>
+<td headers="09/14/2019 sa_continued_claims" align=right>1,672,000</td>
+<td headers="09/14/2019 sa_4_week_continued_claims" align=right>1,678,250</td>
+<td headers="09/14/2019 nsa_iur" align=center>1.0</td>
+<td headers="09/14/2019 sa_iur" align=center>1.2</td>
+<td headers="09/14/2019 cov_employment" align=center>144,199,701</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="09/21/2019" align=left>09/21/2019</th>
+<td headers="09/21/2019 nsa_initial_claims" align=right>175,394</td>
+<td headers="09/21/2019 sf_initial_claims" align=right>81.6</td>
+<td headers="09/21/2019 sa_initial_claims" align=right>215,000</td>
+<td headers="09/21/2019 sa_4_week_initial_claims" align=right>213,250</td>
+<td headers="09/21/2019 nsa_continued_claims" align=right>1,383,346</td>
+<td headers="09/21/2019 sf_continued_claims" align=right>83.0</td>
+<td headers="09/21/2019 sa_continued_claims" align=right>1,667,000</td>
+<td headers="09/21/2019 sa_4_week_continued_claims" align=right>1,674,250</td>
+<td headers="09/21/2019 nsa_iur" align=center>1.0</td>
+<td headers="09/21/2019 sa_iur" align=center>1.2</td>
+<td headers="09/21/2019 cov_employment" align=center>144,199,701</td>
+</tr>
+<tr>
+<th id="09/28/2019" align=left>09/28/2019</th>
+<td headers="09/28/2019 nsa_initial_claims" align=right>172,968</td>
+<td headers="09/28/2019 sf_initial_claims" align=right>79.2</td>
+<td headers="09/28/2019 sa_initial_claims" align=right>218,000</td>
+<td headers="09/28/2019 sa_4_week_initial_claims" align=right>213,000</td>
+<td headers="09/28/2019 nsa_continued_claims" align=right>1,392,109</td>
+<td headers="09/28/2019 sf_continued_claims" align=right>82.0</td>
+<td headers="09/28/2019 sa_continued_claims" align=right>1,698,000</td>
+<td headers="09/28/2019 sa_4_week_continued_claims" align=right>1,678,000</td>
+<td headers="09/28/2019 nsa_iur" align=center>1.0</td>
+<td headers="09/28/2019 sa_iur" align=center>1.2</td>
+<td headers="09/28/2019 cov_employment" align=center>144,199,701</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="10/05/2019" align=left>10/05/2019</th>
+<td headers="10/05/2019 nsa_initial_claims" align=right>188,106</td>
+<td headers="10/05/2019 sf_initial_claims" align=right>88.8</td>
+<td headers="10/05/2019 sa_initial_claims" align=right>212,000</td>
+<td headers="10/05/2019 sa_4_week_initial_claims" align=right>214,000</td>
+<td headers="10/05/2019 nsa_continued_claims" align=right>1,369,887</td>
+<td headers="10/05/2019 sf_continued_claims" align=right>81.1</td>
+<td headers="10/05/2019 sa_continued_claims" align=right>1,689,000</td>
+<td headers="10/05/2019 sa_4_week_continued_claims" align=right>1,681,500</td>
+<td headers="10/05/2019 nsa_iur" align=center>0.9</td>
+<td headers="10/05/2019 sa_iur" align=center>1.2</td>
+<td headers="10/05/2019 cov_employment" align=center>144,758,990</td>
+</tr>
+<tr>
+<th id="10/12/2019" align=left>10/12/2019</th>
+<td headers="10/12/2019 nsa_initial_claims" align=right>201,677</td>
+<td headers="10/12/2019 sf_initial_claims" align=right>92.6</td>
+<td headers="10/12/2019 sa_initial_claims" align=right>218,000</td>
+<td headers="10/12/2019 sa_4_week_initial_claims" align=right>215,750</td>
+<td headers="10/12/2019 nsa_continued_claims" align=right>1,386,868</td>
+<td headers="10/12/2019 sf_continued_claims" align=right>82.0</td>
+<td headers="10/12/2019 sa_continued_claims" align=right>1,691,000</td>
+<td headers="10/12/2019 sa_4_week_continued_claims" align=right>1,686,250</td>
+<td headers="10/12/2019 nsa_iur" align=center>1.0</td>
+<td headers="10/12/2019 sa_iur" align=center>1.2</td>
+<td headers="10/12/2019 cov_employment" align=center>144,758,990</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="10/19/2019" align=left>10/19/2019</th>
+<td headers="10/19/2019 nsa_initial_claims" align=right>186,748</td>
+<td headers="10/19/2019 sf_initial_claims" align=right>87.8</td>
+<td headers="10/19/2019 sa_initial_claims" align=right>213,000</td>
+<td headers="10/19/2019 sa_4_week_initial_claims" align=right>215,250</td>
+<td headers="10/19/2019 nsa_continued_claims" align=right>1,419,512</td>
+<td headers="10/19/2019 sf_continued_claims" align=right>83.5</td>
+<td headers="10/19/2019 sa_continued_claims" align=right>1,700,000</td>
+<td headers="10/19/2019 sa_4_week_continued_claims" align=right>1,694,500</td>
+<td headers="10/19/2019 nsa_iur" align=center>1.0</td>
+<td headers="10/19/2019 sa_iur" align=center>1.2</td>
+<td headers="10/19/2019 cov_employment" align=center>144,758,990</td>
+</tr>
+<tr>
+<th id="10/26/2019" align=left>10/26/2019</th>
+<td headers="10/26/2019 nsa_initial_claims" align=right>198,733</td>
+<td headers="10/26/2019 sf_initial_claims" align=right>91.5</td>
+<td headers="10/26/2019 sa_initial_claims" align=right>217,000</td>
+<td headers="10/26/2019 sa_4_week_initial_claims" align=right>215,000</td>
+<td headers="10/26/2019 nsa_continued_claims" align=right>1,423,681</td>
+<td headers="10/26/2019 sf_continued_claims" align=right>84.0</td>
+<td headers="10/26/2019 sa_continued_claims" align=right>1,695,000</td>
+<td headers="10/26/2019 sa_4_week_continued_claims" align=right>1,693,750</td>
+<td headers="10/26/2019 nsa_iur" align=center>1.0</td>
+<td headers="10/26/2019 sa_iur" align=center>1.2</td>
+<td headers="10/26/2019 cov_employment" align=center>144,758,990</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="11/02/2019" align=left>11/02/2019</th>
+<td headers="11/02/2019 nsa_initial_claims" align=right>205,625</td>
+<td headers="11/02/2019 sf_initial_claims" align=right>97.1</td>
+<td headers="11/02/2019 sa_initial_claims" align=right>212,000</td>
+<td headers="11/02/2019 sa_4_week_initial_claims" align=right>215,000</td>
+<td headers="11/02/2019 nsa_continued_claims" align=right>1,450,304</td>
+<td headers="11/02/2019 sf_continued_claims" align=right>85.2</td>
+<td headers="11/02/2019 sa_continued_claims" align=right>1,702,000</td>
+<td headers="11/02/2019 sa_4_week_continued_claims" align=right>1,697,000</td>
+<td headers="11/02/2019 nsa_iur" align=center>1.0</td>
+<td headers="11/02/2019 sa_iur" align=center>1.2</td>
+<td headers="11/02/2019 cov_employment" align=center>144,758,990</td>
+</tr>
+<tr>
+<th id="11/09/2019" align=left>11/09/2019</th>
+<td headers="11/09/2019 nsa_initial_claims" align=right>238,996</td>
+<td headers="11/09/2019 sf_initial_claims" align=right>107.5</td>
+<td headers="11/09/2019 sa_initial_claims" align=right>222,000</td>
+<td headers="11/09/2019 sa_4_week_initial_claims" align=right>216,000</td>
+<td headers="11/09/2019 nsa_continued_claims" align=right>1,460,773</td>
+<td headers="11/09/2019 sf_continued_claims" align=right>86.1</td>
+<td headers="11/09/2019 sa_continued_claims" align=right>1,697,000</td>
+<td headers="11/09/2019 sa_4_week_continued_claims" align=right>1,698,500</td>
+<td headers="11/09/2019 nsa_iur" align=center>1.0</td>
+<td headers="11/09/2019 sa_iur" align=center>1.2</td>
+<td headers="11/09/2019 cov_employment" align=center>144,758,990</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="11/16/2019" align=left>11/16/2019</th>
+<td headers="11/16/2019 nsa_initial_claims" align=right>227,892</td>
+<td headers="11/16/2019 sf_initial_claims" align=right>102.0</td>
+<td headers="11/16/2019 sa_initial_claims" align=right>223,000</td>
+<td headers="11/16/2019 sa_4_week_initial_claims" align=right>218,500</td>
+<td headers="11/16/2019 nsa_continued_claims" align=right>1,545,007</td>
+<td headers="11/16/2019 sf_continued_claims" align=right>92.8</td>
+<td headers="11/16/2019 sa_continued_claims" align=right>1,665,000</td>
+<td headers="11/16/2019 sa_4_week_continued_claims" align=right>1,689,750</td>
+<td headers="11/16/2019 nsa_iur" align=center>1.1</td>
+<td headers="11/16/2019 sa_iur" align=center>1.2</td>
+<td headers="11/16/2019 cov_employment" align=center>144,758,990</td>
+</tr>
+<tr>
+<th id="11/23/2019" align=left>11/23/2019</th>
+<td headers="11/23/2019 nsa_initial_claims" align=right>252,428</td>
+<td headers="11/23/2019 sf_initial_claims" align=right>119.4</td>
+<td headers="11/23/2019 sa_initial_claims" align=right>211,000</td>
+<td headers="11/23/2019 sa_4_week_initial_claims" align=right>217,000</td>
+<td headers="11/23/2019 nsa_continued_claims" align=right>1,508,294</td>
+<td headers="11/23/2019 sf_continued_claims" align=right>88.9</td>
+<td headers="11/23/2019 sa_continued_claims" align=right>1,697,000</td>
+<td headers="11/23/2019 sa_4_week_continued_claims" align=right>1,690,250</td>
+<td headers="11/23/2019 nsa_iur" align=center>1.0</td>
+<td headers="11/23/2019 sa_iur" align=center>1.2</td>
+<td headers="11/23/2019 cov_employment" align=center>144,758,990</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="11/30/2019" align=left>11/30/2019</th>
+<td headers="11/30/2019 nsa_initial_claims" align=right>216,827</td>
+<td headers="11/30/2019 sf_initial_claims" align=right>105.1</td>
+<td headers="11/30/2019 sa_initial_claims" align=right>206,000</td>
+<td headers="11/30/2019 sa_4_week_initial_claims" align=right>215,500</td>
+<td headers="11/30/2019 nsa_continued_claims" align=right>1,754,590</td>
+<td headers="11/30/2019 sf_continued_claims" align=right>103.2</td>
+<td headers="11/30/2019 sa_continued_claims" align=right>1,700,000</td>
+<td headers="11/30/2019 sa_4_week_continued_claims" align=right>1,689,750</td>
+<td headers="11/30/2019 nsa_iur" align=center>1.2</td>
+<td headers="11/30/2019 sa_iur" align=center>1.2</td>
+<td headers="11/30/2019 cov_employment" align=center>144,758,990</td>
+</tr>
+<tr>
+<th id="12/07/2019" align=left>12/07/2019</th>
+<td headers="12/07/2019 nsa_initial_claims" align=right>317,866</td>
+<td headers="12/07/2019 sf_initial_claims" align=right>134.0</td>
+<td headers="12/07/2019 sa_initial_claims" align=right>237,000</td>
+<td headers="12/07/2019 sa_4_week_initial_claims" align=right>219,250</td>
+<td headers="12/07/2019 nsa_continued_claims" align=right>1,728,066</td>
+<td headers="12/07/2019 sf_continued_claims" align=right>100.2</td>
+<td headers="12/07/2019 sa_continued_claims" align=right>1,725,000</td>
+<td headers="12/07/2019 sa_4_week_continued_claims" align=right>1,696,750</td>
+<td headers="12/07/2019 nsa_iur" align=center>1.2</td>
+<td headers="12/07/2019 sa_iur" align=center>1.2</td>
+<td headers="12/07/2019 cov_employment" align=center>144,758,990</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="12/14/2019" align=left>12/14/2019</th>
+<td headers="12/14/2019 nsa_initial_claims" align=right>270,547</td>
+<td headers="12/14/2019 sf_initial_claims" align=right>118.0</td>
+<td headers="12/14/2019 sa_initial_claims" align=right>229,000</td>
+<td headers="12/14/2019 sa_4_week_initial_claims" align=right>220,750</td>
+<td headers="12/14/2019 nsa_continued_claims" align=right>1,798,885</td>
+<td headers="12/14/2019 sf_continued_claims" align=right>104.8</td>
+<td headers="12/14/2019 sa_continued_claims" align=right>1,716,000</td>
+<td headers="12/14/2019 sa_4_week_continued_claims" align=right>1,709,500</td>
+<td headers="12/14/2019 nsa_iur" align=center>1.2</td>
+<td headers="12/14/2019 sa_iur" align=center>1.2</td>
+<td headers="12/14/2019 cov_employment" align=center>144,758,990</td>
+</tr>
+<tr>
+<th id="12/21/2019" align=left>12/21/2019</th>
+<td headers="12/21/2019 nsa_initial_claims" align=right>287,243</td>
+<td headers="12/21/2019 sf_initial_claims" align=right>132.0</td>
+<td headers="12/21/2019 sa_initial_claims" align=right>218,000</td>
+<td headers="12/21/2019 sa_4_week_initial_claims" align=right>222,500</td>
+<td headers="12/21/2019 nsa_continued_claims" align=right>1,776,317</td>
+<td headers="12/21/2019 sf_continued_claims" align=right>102.8</td>
+<td headers="12/21/2019 sa_continued_claims" align=right>1,728,000</td>
+<td headers="12/21/2019 sa_4_week_continued_claims" align=right>1,717,250</td>
+<td headers="12/21/2019 nsa_iur" align=center>1.2</td>
+<td headers="12/21/2019 sa_iur" align=center>1.2</td>
+<td headers="12/21/2019 cov_employment" align=center>144,758,990</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="12/28/2019" align=left>12/28/2019</th>
+<td headers="12/28/2019 nsa_initial_claims" align=right>312,524</td>
+<td headers="12/28/2019 sf_initial_claims" align=right>142.3</td>
+<td headers="12/28/2019 sa_initial_claims" align=right>220,000</td>
+<td headers="12/28/2019 sa_4_week_initial_claims" align=right>226,000</td>
+<td headers="12/28/2019 nsa_continued_claims" align=right>2,147,170</td>
+<td headers="12/28/2019 sf_continued_claims" align=right>121.0</td>
+<td headers="12/28/2019 sa_continued_claims" align=right>1,775,000</td>
+<td headers="12/28/2019 sa_4_week_continued_claims" align=right>1,736,000</td>
+<td headers="12/28/2019 nsa_iur" align=center>1.5</td>
+<td headers="12/28/2019 sa_iur" align=center>1.2</td>
+<td headers="12/28/2019 cov_employment" align=center>144,758,990</td>
+</tr>
+<tr>
+<th id="01/04/2020" align=left>01/04/2020</th>
+<td headers="01/04/2020 nsa_initial_claims" align=right>335,480</td>
+<td headers="01/04/2020 sf_initial_claims" align=right>158.4</td>
+<td headers="01/04/2020 sa_initial_claims" align=right>212,000</td>
+<td headers="01/04/2020 sa_4_week_initial_claims" align=right>219,750</td>
+<td headers="01/04/2020 nsa_continued_claims" align=right>2,249,123</td>
+<td headers="01/04/2020 sf_continued_claims" align=right>127.9</td>
+<td headers="01/04/2020 sa_continued_claims" align=right>1,759,000</td>
+<td headers="01/04/2020 sa_4_week_continued_claims" align=right>1,744,500</td>
+<td headers="01/04/2020 nsa_iur" align=center>1.5</td>
+<td headers="01/04/2020 sa_iur" align=center>1.2</td>
+<td headers="01/04/2020 cov_employment" align=center>145,230,691</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="01/11/2020" align=left>01/11/2020</th>
+<td headers="01/11/2020 nsa_initial_claims" align=right>338,550</td>
+<td headers="01/11/2020 sf_initial_claims" align=right>163.7</td>
+<td headers="01/11/2020 sa_initial_claims" align=right>207,000</td>
+<td headers="01/11/2020 sa_4_week_initial_claims" align=right>214,250</td>
+<td headers="01/11/2020 nsa_continued_claims" align=right>2,141,587</td>
+<td headers="01/11/2020 sf_continued_claims" align=right>123.4</td>
+<td headers="01/11/2020 sa_continued_claims" align=right>1,735,000</td>
+<td headers="01/11/2020 sa_4_week_continued_claims" align=right>1,749,250</td>
+<td headers="01/11/2020 nsa_iur" align=center>1.5</td>
+<td headers="01/11/2020 sa_iur" align=center>1.2</td>
+<td headers="01/11/2020 cov_employment" align=center>145,230,691</td>
+</tr>
+<tr>
+<th id="01/18/2020" align=left>01/18/2020</th>
+<td headers="01/18/2020 nsa_initial_claims" align=right>282,088</td>
+<td headers="01/18/2020 sf_initial_claims" align=right>128.5</td>
+<td headers="01/18/2020 sa_initial_claims" align=right>220,000</td>
+<td headers="01/18/2020 sa_4_week_initial_claims" align=right>214,750</td>
+<td headers="01/18/2020 nsa_continued_claims" align=right>2,079,050</td>
+<td headers="01/18/2020 sf_continued_claims" align=right>122.0</td>
+<td headers="01/18/2020 sa_continued_claims" align=right>1,704,000</td>
+<td headers="01/18/2020 sa_4_week_continued_claims" align=right>1,743,250</td>
+<td headers="01/18/2020 nsa_iur" align=center>1.4</td>
+<td headers="01/18/2020 sa_iur" align=center>1.2</td>
+<td headers="01/18/2020 cov_employment" align=center>145,230,691</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="01/25/2020" align=left>01/25/2020</th>
+<td headers="01/25/2020 nsa_initial_claims" align=right>229,002</td>
+<td headers="01/25/2020 sf_initial_claims" align=right>108.1</td>
+<td headers="01/25/2020 sa_initial_claims" align=right>212,000</td>
+<td headers="01/25/2020 sa_4_week_initial_claims" align=right>212,750</td>
+<td headers="01/25/2020 nsa_continued_claims" align=right>2,152,733</td>
+<td headers="01/25/2020 sf_continued_claims" align=right>122.8</td>
+<td headers="01/25/2020 sa_continued_claims" align=right>1,753,000</td>
+<td headers="01/25/2020 sa_4_week_continued_claims" align=right>1,737,750</td>
+<td headers="01/25/2020 nsa_iur" align=center>1.5</td>
+<td headers="01/25/2020 sa_iur" align=center>1.2</td>
+<td headers="01/25/2020 cov_employment" align=center>145,230,691</td>
+</tr>
+<tr>
+<th id="02/01/2020" align=left>02/01/2020</th>
+<td headers="02/01/2020 nsa_initial_claims" align=right>224,664</td>
+<td headers="02/01/2020 sf_initial_claims" align=right>111.5</td>
+<td headers="02/01/2020 sa_initial_claims" align=right>201,000</td>
+<td headers="02/01/2020 sa_4_week_initial_claims" align=right>210,000</td>
+<td headers="02/01/2020 nsa_continued_claims" align=right>2,087,525</td>
+<td headers="02/01/2020 sf_continued_claims" align=right>124.4</td>
+<td headers="02/01/2020 sa_continued_claims" align=right>1,678,000</td>
+<td headers="02/01/2020 sa_4_week_continued_claims" align=right>1,717,500</td>
+<td headers="02/01/2020 nsa_iur" align=center>1.4</td>
+<td headers="02/01/2020 sa_iur" align=center>1.2</td>
+<td headers="02/01/2020 cov_employment" align=center>145,230,691</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="02/08/2020" align=left>02/08/2020</th>
+<td headers="02/08/2020 nsa_initial_claims" align=right>219,601</td>
+<td headers="02/08/2020 sf_initial_claims" align=right>107.9</td>
+<td headers="02/08/2020 sa_initial_claims" align=right>204,000</td>
+<td headers="02/08/2020 sa_4_week_initial_claims" align=right>209,250</td>
+<td headers="02/08/2020 nsa_continued_claims" align=right>2,099,073</td>
+<td headers="02/08/2020 sf_continued_claims" align=right>121.4</td>
+<td headers="02/08/2020 sa_continued_claims" align=right>1,729,000</td>
+<td headers="02/08/2020 sa_4_week_continued_claims" align=right>1,716,000</td>
+<td headers="02/08/2020 nsa_iur" align=center>1.4</td>
+<td headers="02/08/2020 sa_iur" align=center>1.2</td>
+<td headers="02/08/2020 cov_employment" align=center>145,230,691</td>
+</tr>
+<tr>
+<th id="02/15/2020" align=left>02/15/2020</th>
+<td headers="02/15/2020 nsa_initial_claims" align=right>209,336</td>
+<td headers="02/15/2020 sf_initial_claims" align=right>97.4</td>
+<td headers="02/15/2020 sa_initial_claims" align=right>215,000</td>
+<td headers="02/15/2020 sa_4_week_initial_claims" align=right>208,000</td>
+<td headers="02/15/2020 nsa_continued_claims" align=right>2,061,669</td>
+<td headers="02/15/2020 sf_continued_claims" align=right>121.8</td>
+<td headers="02/15/2020 sa_continued_claims" align=right>1,693,000</td>
+<td headers="02/15/2020 sa_4_week_continued_claims" align=right>1,713,000</td>
+<td headers="02/15/2020 nsa_iur" align=center>1.4</td>
+<td headers="02/15/2020 sa_iur" align=center>1.2</td>
+<td headers="02/15/2020 cov_employment" align=center>145,230,691</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="02/22/2020" align=left>02/22/2020</th>
+<td headers="02/22/2020 nsa_initial_claims" align=right>199,278</td>
+<td headers="02/22/2020 sf_initial_claims" align=right>90.5</td>
+<td headers="02/22/2020 sa_initial_claims" align=right>220,000</td>
+<td headers="02/22/2020 sa_4_week_initial_claims" align=right>210,000</td>
+<td headers="02/22/2020 nsa_continued_claims" align=right>2,105,457</td>
+<td headers="02/22/2020 sf_continued_claims" align=right>122.4</td>
+<td headers="02/22/2020 sa_continued_claims" align=right>1,720,000</td>
+<td headers="02/22/2020 sa_4_week_continued_claims" align=right>1,705,000</td>
+<td headers="02/22/2020 nsa_iur" align=center>1.4</td>
+<td headers="02/22/2020 sa_iur" align=center>1.2</td>
+<td headers="02/22/2020 cov_employment" align=center>145,230,691</td>
+</tr>
+<tr>
+<th id="02/29/2020" align=left>02/29/2020</th>
+<td headers="02/29/2020 nsa_initial_claims" align=right>216,982</td>
+<td headers="02/29/2020 sf_initial_claims" align=right>99.8</td>
+<td headers="02/29/2020 sa_initial_claims" align=right>217,000</td>
+<td headers="02/29/2020 sa_4_week_initial_claims" align=right>214,000</td>
+<td headers="02/29/2020 nsa_continued_claims" align=right>2,057,280</td>
+<td headers="02/29/2020 sf_continued_claims" align=right>121.1</td>
+<td headers="02/29/2020 sa_continued_claims" align=right>1,699,000</td>
+<td headers="02/29/2020 sa_4_week_continued_claims" align=right>1,710,250</td>
+<td headers="02/29/2020 nsa_iur" align=center>1.4</td>
+<td headers="02/29/2020 sa_iur" align=center>1.2</td>
+<td headers="02/29/2020 cov_employment" align=center>145,230,691</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="03/07/2020" align=left>03/07/2020</th>
+<td headers="03/07/2020 nsa_initial_claims" align=right>200,382</td>
+<td headers="03/07/2020 sf_initial_claims" align=right>95.0</td>
+<td headers="03/07/2020 sa_initial_claims" align=right>211,000</td>
+<td headers="03/07/2020 sa_4_week_initial_claims" align=right>215,750</td>
+<td headers="03/07/2020 nsa_continued_claims" align=right>1,977,272</td>
+<td headers="03/07/2020 sf_continued_claims" align=right>116.2</td>
+<td headers="03/07/2020 sa_continued_claims" align=right>1,702,000</td>
+<td headers="03/07/2020 sa_4_week_continued_claims" align=right>1,703,500</td>
+<td headers="03/07/2020 nsa_iur" align=center>1.4</td>
+<td headers="03/07/2020 sa_iur" align=center>1.2</td>
+<td headers="03/07/2020 cov_employment" align=center>145,230,691</td>
+</tr>
+<tr>
+<th id="03/14/2020" align=left>03/14/2020</th>
+<td headers="03/14/2020 nsa_initial_claims" align=right>251,416</td>
+<td headers="03/14/2020 sf_initial_claims" align=right>89.3</td>
+<td headers="03/14/2020 sa_initial_claims" align=right>282,000</td>
+<td headers="03/14/2020 sa_4_week_initial_claims" align=right>232,500</td>
+<td headers="03/14/2020 nsa_continued_claims" align=right>2,074,782</td>
+<td headers="03/14/2020 sf_continued_claims" align=right>116.3</td>
+<td headers="03/14/2020 sa_continued_claims" align=right>1,784,000</td>
+<td headers="03/14/2020 sa_4_week_continued_claims" align=right>1,726,250</td>
+<td headers="03/14/2020 nsa_iur" align=center>1.4</td>
+<td headers="03/14/2020 sa_iur" align=center>1.2</td>
+<td headers="03/14/2020 cov_employment" align=center>145,230,691</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="03/21/2020" align=left>03/21/2020</th>
+<td headers="03/21/2020 nsa_initial_claims" align=right>2,920,162</td>
+<td headers="03/21/2020 sf_initial_claims" align=right>88.3</td>
+<td headers="03/21/2020 sa_initial_claims" align=right>3,307,000</td>
+<td headers="03/21/2020 sa_4_week_initial_claims" align=right>1,004,250</td>
+<td headers="03/21/2020 nsa_continued_claims" align=right>3,416,645</td>
+<td headers="03/21/2020 sf_continued_claims" align=right>111.7</td>
+<td headers="03/21/2020 sa_continued_claims" align=right>3,059,000</td>
+<td headers="03/21/2020 sa_4_week_continued_claims" align=right>2,061,000</td>
+<td headers="03/21/2020 nsa_iur" align=center>2.4</td>
+<td headers="03/21/2020 sa_iur" align=center>2.1</td>
+<td headers="03/21/2020 cov_employment" align=center>145,230,691</td>
+</tr>
+<tr>
+<th id="03/28/2020" align=left>03/28/2020</th>
+<td headers="03/28/2020 nsa_initial_claims" align=right>6,015,821</td>
+<td headers="03/28/2020 sf_initial_claims" align=right>87.6</td>
+<td headers="03/28/2020 sa_initial_claims" align=right>6,867,000</td>
+<td headers="03/28/2020 sa_4_week_initial_claims" align=right>2,666,750</td>
+<td headers="03/28/2020 nsa_continued_claims" align=right>8,168,375</td>
+<td headers="03/28/2020 sf_continued_claims" align=right>109.7</td>
+<td headers="03/28/2020 sa_continued_claims" align=right>7,446,000</td>
+<td headers="03/28/2020 sa_4_week_continued_claims" align=right>3,497,750</td>
+<td headers="03/28/2020 nsa_iur" align=center>5.6</td>
+<td headers="03/28/2020 sa_iur" align=center>5.1</td>
+<td headers="03/28/2020 cov_employment" align=center>145,230,691</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="04/04/2020" align=left>04/04/2020</th>
+<td headers="04/04/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="04/04/2020 sf_initial_claims" align=right>93.9</td>
+<td headers="04/04/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="04/04/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="04/04/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="04/04/2020 sf_continued_claims" align=right>104.6</td>
+<td headers="04/04/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="04/04/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="04/04/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="04/04/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="04/04/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr>
+<th id="04/11/2020" align=left>04/11/2020</th>
+<td headers="04/11/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="04/11/2020 sf_initial_claims" align=right>94.8</td>
+<td headers="04/11/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="04/11/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="04/11/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="04/11/2020 sf_continued_claims" align=right>102.9</td>
+<td headers="04/11/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="04/11/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="04/11/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="04/11/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="04/11/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="04/18/2020" align=left>04/18/2020</th>
+<td headers="04/18/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="04/18/2020 sf_initial_claims" align=right>96.4</td>
+<td headers="04/18/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="04/18/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="04/18/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="04/18/2020 sf_continued_claims" align=right>98.8</td>
+<td headers="04/18/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="04/18/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="04/18/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="04/18/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="04/18/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr>
+<th id="04/25/2020" align=left>04/25/2020</th>
+<td headers="04/25/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="04/25/2020 sf_initial_claims" align=right>90.9</td>
+<td headers="04/25/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="04/25/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="04/25/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="04/25/2020 sf_continued_claims" align=right>97.3</td>
+<td headers="04/25/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="04/25/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="04/25/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="04/25/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="04/25/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="05/02/2020" align=left>05/02/2020</th>
+<td headers="05/02/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="05/02/2020 sf_initial_claims" align=right>89.9</td>
+<td headers="05/02/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="05/02/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="05/02/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="05/02/2020 sf_continued_claims" align=right>92.6</td>
+<td headers="05/02/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="05/02/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="05/02/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="05/02/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="05/02/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr>
+<th id="05/09/2020" align=left>05/09/2020</th>
+<td headers="05/09/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="05/09/2020 sf_initial_claims" align=right>87.7</td>
+<td headers="05/09/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="05/09/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="05/09/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="05/09/2020 sf_continued_claims" align=right>91.5</td>
+<td headers="05/09/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="05/09/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="05/09/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="05/09/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="05/09/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="05/16/2020" align=left>05/16/2020</th>
+<td headers="05/16/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="05/16/2020 sf_initial_claims" align=right>89.2</td>
+<td headers="05/16/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="05/16/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="05/16/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="05/16/2020 sf_continued_claims" align=right>90.5</td>
+<td headers="05/16/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="05/16/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="05/16/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="05/16/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="05/16/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr>
+<th id="05/23/2020" align=left>05/23/2020</th>
+<td headers="05/23/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="05/23/2020 sf_initial_claims" align=right>90.2</td>
+<td headers="05/23/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="05/23/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="05/23/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="05/23/2020 sf_continued_claims" align=right>89.8</td>
+<td headers="05/23/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="05/23/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="05/23/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="05/23/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="05/23/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="05/30/2020" align=left>05/30/2020</th>
+<td headers="05/30/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="05/30/2020 sf_initial_claims" align=right>85.4</td>
+<td headers="05/30/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="05/30/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="05/30/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="05/30/2020 sf_continued_claims" align=right>90.4</td>
+<td headers="05/30/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="05/30/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="05/30/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="05/30/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="05/30/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr>
+<th id="06/06/2020" align=left>06/06/2020</th>
+<td headers="06/06/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="06/06/2020 sf_initial_claims" align=right>99.7</td>
+<td headers="06/06/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="06/06/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="06/06/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="06/06/2020 sf_continued_claims" align=right>90.8</td>
+<td headers="06/06/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="06/06/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="06/06/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="06/06/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="06/06/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="06/13/2020" align=left>06/13/2020</th>
+<td headers="06/13/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="06/13/2020 sf_initial_claims" align=right>95.0</td>
+<td headers="06/13/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="06/13/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="06/13/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="06/13/2020 sf_continued_claims" align=right>91.8</td>
+<td headers="06/13/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="06/13/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="06/13/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="06/13/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="06/13/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr>
+<th id="06/20/2020" align=left>06/20/2020</th>
+<td headers="06/20/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="06/20/2020 sf_initial_claims" align=right>98.5</td>
+<td headers="06/20/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="06/20/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="06/20/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="06/20/2020 sf_continued_claims" align=right>92.9</td>
+<td headers="06/20/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="06/20/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="06/20/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="06/20/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="06/20/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="06/27/2020" align=left>06/27/2020</th>
+<td headers="06/27/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="06/27/2020 sf_initial_claims" align=right>101.3</td>
+<td headers="06/27/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="06/27/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="06/27/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="06/27/2020 sf_continued_claims" align=right>93.0</td>
+<td headers="06/27/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="06/27/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="06/27/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="06/27/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="06/27/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr>
+<th id="07/04/2020" align=left>07/04/2020</th>
+<td headers="07/04/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="07/04/2020 sf_initial_claims" align=right>106.5</td>
+<td headers="07/04/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="07/04/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="07/04/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="07/04/2020 sf_continued_claims" align=right>100.1</td>
+<td headers="07/04/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="07/04/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="07/04/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="07/04/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="07/04/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="07/11/2020" align=left>07/11/2020</th>
+<td headers="07/11/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="07/11/2020 sf_initial_claims" align=right>115.7</td>
+<td headers="07/11/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="07/11/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="07/11/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="07/11/2020 sf_continued_claims" align=right>101.2</td>
+<td headers="07/11/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="07/11/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="07/11/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="07/11/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="07/11/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr>
+<th id="07/18/2020" align=left>07/18/2020</th>
+<td headers="07/18/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="07/18/2020 sf_initial_claims" align=right>96.8</td>
+<td headers="07/18/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="07/18/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="07/18/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="07/18/2020 sf_continued_claims" align=right>99.2</td>
+<td headers="07/18/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="07/18/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="07/18/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="07/18/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="07/18/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="07/25/2020" align=left>07/25/2020</th>
+<td headers="07/25/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="07/25/2020 sf_initial_claims" align=right>84.1</td>
+<td headers="07/25/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="07/25/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="07/25/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="07/25/2020 sf_continued_claims" align=right>98.4</td>
+<td headers="07/25/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="07/25/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="07/25/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="07/25/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="07/25/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr>
+<th id="08/01/2020" align=left>08/01/2020</th>
+<td headers="08/01/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="08/01/2020 sf_initial_claims" align=right>83.0</td>
+<td headers="08/01/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="08/01/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="08/01/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="08/01/2020 sf_continued_claims" align=right>98.2</td>
+<td headers="08/01/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="08/01/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="08/01/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="08/01/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="08/01/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="08/08/2020" align=left>08/08/2020</th>
+<td headers="08/08/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="08/08/2020 sf_initial_claims" align=right>86.4</td>
+<td headers="08/08/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="08/08/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="08/08/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="08/08/2020 sf_continued_claims" align=right>96.1</td>
+<td headers="08/08/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="08/08/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="08/08/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="08/08/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="08/08/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr>
+<th id="08/15/2020" align=left>08/15/2020</th>
+<td headers="08/15/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="08/15/2020 sf_initial_claims" align=right>80.6</td>
+<td headers="08/15/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="08/15/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="08/15/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="08/15/2020 sf_continued_claims" align=right>95.7</td>
+<td headers="08/15/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="08/15/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="08/15/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="08/15/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="08/15/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="08/22/2020" align=left>08/22/2020</th>
+<td headers="08/22/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="08/22/2020 sf_initial_claims" align=right>81.7</td>
+<td headers="08/22/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="08/22/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="08/22/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="08/22/2020 sf_continued_claims" align=right>93.3</td>
+<td headers="08/22/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="08/22/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="08/22/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="08/22/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="08/22/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr>
+<th id="08/29/2020" align=left>08/29/2020</th>
+<td headers="08/29/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="08/29/2020 sf_initial_claims" align=right>81.7</td>
+<td headers="08/29/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="08/29/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="08/29/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="08/29/2020 sf_continued_claims" align=right>90.6</td>
+<td headers="08/29/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="08/29/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="08/29/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="08/29/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="08/29/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="09/05/2020" align=left>09/05/2020</th>
+<td headers="09/05/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="09/05/2020 sf_initial_claims" align=right>85.4</td>
+<td headers="09/05/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="09/05/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="09/05/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="09/05/2020 sf_continued_claims" align=right>86.0</td>
+<td headers="09/05/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="09/05/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="09/05/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="09/05/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="09/05/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr>
+<th id="09/12/2020" align=left>09/12/2020</th>
+<td headers="09/12/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="09/12/2020 sf_initial_claims" align=right>74.4</td>
+<td headers="09/12/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="09/12/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="09/12/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="09/12/2020 sf_continued_claims" align=right>84.8</td>
+<td headers="09/12/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="09/12/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="09/12/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="09/12/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="09/12/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="09/19/2020" align=left>09/19/2020</th>
+<td headers="09/19/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="09/19/2020 sf_initial_claims" align=right>81.4</td>
+<td headers="09/19/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="09/19/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="09/19/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="09/19/2020 sf_continued_claims" align=right>82.8</td>
+<td headers="09/19/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="09/19/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="09/19/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="09/19/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="09/19/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr>
+<th id="09/26/2020" align=left>09/26/2020</th>
+<td headers="09/26/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="09/26/2020 sf_initial_claims" align=right>79.7</td>
+<td headers="09/26/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="09/26/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="09/26/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="09/26/2020 sf_continued_claims" align=right>82.4</td>
+<td headers="09/26/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="09/26/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="09/26/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="09/26/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="09/26/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="10/03/2020" align=left>10/03/2020</th>
+<td headers="10/03/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="10/03/2020 sf_initial_claims" align=right>85.0</td>
+<td headers="10/03/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="10/03/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="10/03/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="10/03/2020 sf_continued_claims" align=right>81.3</td>
+<td headers="10/03/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="10/03/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="10/03/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="10/03/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="10/03/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr>
+<th id="10/10/2020" align=left>10/10/2020</th>
+<td headers="10/10/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="10/10/2020 sf_initial_claims" align=right>93.9</td>
+<td headers="10/10/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="10/10/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="10/10/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="10/10/2020 sf_continued_claims" align=right>81.4</td>
+<td headers="10/10/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="10/10/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="10/10/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="10/10/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="10/10/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="10/17/2020" align=left>10/17/2020</th>
+<td headers="10/17/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="10/17/2020 sf_initial_claims" align=right>87.3</td>
+<td headers="10/17/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="10/17/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="10/17/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="10/17/2020 sf_continued_claims" align=right>83.6</td>
+<td headers="10/17/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="10/17/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="10/17/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="10/17/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="10/17/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr>
+<th id="10/24/2020" align=left>10/24/2020</th>
+<td headers="10/24/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="10/24/2020 sf_initial_claims" align=right>91.6</td>
+<td headers="10/24/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="10/24/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="10/24/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="10/24/2020 sf_continued_claims" align=right>83.5</td>
+<td headers="10/24/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="10/24/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="10/24/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="10/24/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="10/24/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="10/31/2020" align=left>10/31/2020</th>
+<td headers="10/31/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="10/31/2020 sf_initial_claims" align=right>94.4</td>
+<td headers="10/31/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="10/31/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="10/31/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="10/31/2020 sf_continued_claims" align=right>85.0</td>
+<td headers="10/31/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="10/31/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="10/31/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="10/31/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="10/31/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr>
+<th id="11/07/2020" align=left>11/07/2020</th>
+<td headers="11/07/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="11/07/2020 sf_initial_claims" align=right>105.2</td>
+<td headers="11/07/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="11/07/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="11/07/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="11/07/2020 sf_continued_claims" align=right>85.8</td>
+<td headers="11/07/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="11/07/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="11/07/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="11/07/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="11/07/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="11/14/2020" align=left>11/14/2020</th>
+<td headers="11/14/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="11/14/2020 sf_initial_claims" align=right>100.5</td>
+<td headers="11/14/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="11/14/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="11/14/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="11/14/2020 sf_continued_claims" align=right>90.9</td>
+<td headers="11/14/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="11/14/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="11/14/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="11/14/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="11/14/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr>
+<th id="11/21/2020" align=left>11/21/2020</th>
+<td headers="11/21/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="11/21/2020 sf_initial_claims" align=right>117.8</td>
+<td headers="11/21/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="11/21/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="11/21/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="11/21/2020 sf_continued_claims" align=right>86.9</td>
+<td headers="11/21/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="11/21/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="11/21/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="11/21/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="11/21/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="11/28/2020" align=left>11/28/2020</th>
+<td headers="11/28/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="11/28/2020 sf_initial_claims" align=right>101.1</td>
+<td headers="11/28/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="11/28/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="11/28/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="11/28/2020 sf_continued_claims" align=right>100.4</td>
+<td headers="11/28/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="11/28/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="11/28/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="11/28/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="11/28/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr>
+<th id="12/05/2020" align=left>12/05/2020</th>
+<td headers="12/05/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="12/05/2020 sf_initial_claims" align=right>138.5</td>
+<td headers="12/05/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="12/05/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="12/05/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="12/05/2020 sf_continued_claims" align=right>98.9</td>
+<td headers="12/05/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="12/05/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="12/05/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="12/05/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="12/05/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="12/12/2020" align=left>12/12/2020</th>
+<td headers="12/12/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="12/12/2020 sf_initial_claims" align=right>119.3</td>
+<td headers="12/12/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="12/12/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="12/12/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="12/12/2020 sf_continued_claims" align=right>104.8</td>
+<td headers="12/12/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="12/12/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="12/12/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="12/12/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="12/12/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr>
+<th id="12/19/2020" align=left>12/19/2020</th>
+<td headers="12/19/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="12/19/2020 sf_initial_claims" align=right>127.2</td>
+<td headers="12/19/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="12/19/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="12/19/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="12/19/2020 sf_continued_claims" align=right>101.9</td>
+<td headers="12/19/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="12/19/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="12/19/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="12/19/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="12/19/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+<tr bgcolor="#f3f3f3">
+<th id="12/26/2020" align=left>12/26/2020</th>
+<td headers="12/26/2020 nsa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="12/26/2020 sf_initial_claims" align=right>128.2</td>
+<td headers="12/26/2020 sa_initial_claims noinfo" align=right>&#160;</td>
+<td headers="12/26/2020 sa_4_week_initial_claims noinfo" align=right>&#160;</td>
+<td headers="12/26/2020 nsa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="12/26/2020 sf_continued_claims" align=right>115.0</td>
+<td headers="12/26/2020 sa_continued_claims noinfo" align=right>&#160;</td>
+<td headers="12/26/2020 sa_4_week_continued_claims noinfo" align=right>&#160;</td>
+<td headers="12/26/2020 nsa_iur noinfo" align=center>&#160;</td>
+<td headers="12/26/2020 sa_iur noinfo" align=center>&#160;</td>
+<td headers="12/26/2020 cov_employment noinfo" align=center>&#160;</td>
+</tr>
+	
+</table>
+ <p>Run Date: 4/27/2020</p>
+	
